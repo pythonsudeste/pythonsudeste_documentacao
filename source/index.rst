@@ -9,5 +9,6 @@ Histórico
 .. toctree::
    :maxdepth: 2
 
+   pythonsudeste2016
    pythonsudeste2017
    pythonsudeste2018
