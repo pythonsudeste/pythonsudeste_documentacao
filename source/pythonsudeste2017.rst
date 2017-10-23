@@ -67,6 +67,14 @@ Keynotes
 - Álvaro "Turicas"
 - Annanda Souza
 
+Vídeos
+------------------------
+.. toctree::
+   :maxdepth: 2
+
+   palestras2017
+
+
 Inovações
 ------------------------
 
