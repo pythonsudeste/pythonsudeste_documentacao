@@ -8,69 +8,31 @@ Informações Gerais
 +----------------------+-------------------------+
 | Cidade sede          | Rio de Janeiro          |
 +----------------------+-------------------------+
-| Data                 | 5 e 6 de maio           |
+| Data                 | 5 a 7 de maio           |
 +----------------------+-------------------------+
 
-Locais
-------------------------
-
-+----------------------+----------------------------------+
-| Palestras            | Auditório do Clube de Engenharia |
-+----------------------+----------------------------------+
-| Tutoriais            | Universidade Veiga de Almeida    |
-+----------------------+----------------------------------+
 
 Números
 ------------------------
 
-+------------------------+-------------------------+
-| Inscritos              | 326                     |
-+------------------------+-------------------------+
-| Participantes          | 234                     |
-+------------------------+-------------------------+
-| Palestras              | 12                      |
-+------------------------+-------------------------+
-| Palestrantes           | 9                       |
-+------------------------+-------------------------+
-| Keynotes               | 3                       |
-+------------------------+-------------------------+
-| Valor total arrecadado | R$ 39.316,67            |
-+------------------------+-------------------------+
-| Valor total do evento  | R$ 40.693,97            |
-+------------------------+-------------------------+
++----------------------+-------------------------+
+| Palestras            | 12                      |
++----------------------+-------------------------+
+| Palestrantes         | 9                       |
++----------------------+-------------------------+
+| Keynotes             | 3                       |
++----------------------+-------------------------+
 
-Participação feminina
+Voluntários
 ------------------------
+TODO
 
-- 1/3 dos keynotes (33%)
-- 2/9 das palestras (22%)
-- 49/234 participantes (21%)
-
-Organizadores
+Keynotes e Palestras
 ------------------------
-
-- Bernardo Fontes
-- Bianca Rosa
-- Eduardo Stalinho
-- James Peres (saudades inclusive)
-- Julia Kastrup
-- Mariana Bedran
-- Paula Grangeiro
-- Raffael Tancman
-- Raysa Dutra
-- Thais Viana
-
-Keynotes
-------------------------
-
-- Claudio Berrondo
-- Álvaro "Turicas"
-- Annanda Souza
-
-Inovações
-------------------------
-
-Primeiro evento com votação anônima dos autores das palestras
+.. toctree::
+	:maxdepth: 2
+	
+	palestras2017
 
 Links externos
 ------------------------
