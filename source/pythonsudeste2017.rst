@@ -86,4 +86,4 @@ Fotos_
 Site_
 
 .. _fotos: https://www.facebook.com/pg/pythonsudeste/photos/?tab=album&album_id=303043140123523
-.. _site: http://pythonsudeste.org/
+.. _site: http://2017.pythonsudeste.org/
