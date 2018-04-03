@@ -2,6 +2,8 @@ Keynotes
 ----------------
 
 
+- `Cássio Botaro - Python Moderno <https://go-talks.appspot.com/github.com/cassiobotaro/talks_and_articles/python_moderno.slide#1>`_
+
 Palestras
 ----------------
 
