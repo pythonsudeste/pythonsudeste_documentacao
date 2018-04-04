@@ -25,6 +25,9 @@ Palestras
 
 - `Vinicius Mesel - Mas cadê as oportunidades Python? <https://speakerdeck.com/vmesel/mas-cade-as-oportunidades-python>`_
 
+- `Regis Santos - Weppy - O framework web para humanos <http://slides.com/regissilva/weppy#/>`_
+
+
 Tutoriais
 ---------
 
