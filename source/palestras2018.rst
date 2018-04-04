@@ -27,3 +27,4 @@ Tutoriais
 ---------
 
 - `David Kwast - Introdução ao Python <https://oagnostico.com.br/notebooks/slides/Curso_Introducao_Python3.slides.html#/>`_
+- `Arthur Fortes - Case Recommender: Utilizando Python para desenvolver sistemas de recomendação <https://github.com/ArthurFortes/Tutorial_CaseRecommender>`_
