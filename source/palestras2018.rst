@@ -1,12 +1,12 @@
 Keynotes
-----------------
+--------
 
 
 - `Cássio Botaro - Python Moderno <https://go-talks.appspot.com/github.com/cassiobotaro/talks_and_articles/python_moderno.slide#1>`_
 
 
 Palestras
-----------------
+---------
 
 
 - `Gilson Filho - Automatizando seu fluxo de trabalho com Airflow <https://speakerdeck.com/gilsondev/airflow-automatizando-seu-fluxo-de-trabalho>`_
@@ -26,6 +26,8 @@ Palestras
 - `Vinicius Mesel - Mas cadê as oportunidades Python? <https://speakerdeck.com/vmesel/mas-cade-as-oportunidades-python>`_
 
 - `Regis Santos - Weppy - O framework web para humanos <http://slides.com/regissilva/weppy#/>`_
+
+- `Mariana Bedran - Explorando QuerySets do Django <https://speakerdeck.com/labcodes/explorando-querysets-do-django>`_
 
 
 Tutoriais
