@@ -27,6 +27,8 @@ Palestras
 
 - `Regis Santos - Weppy - O framework web para humanos <http://slides.com/regissilva/weppy#/>`_
 
+- `Bianca Rosa - Python Web Frameworks - Quais são e como escolher! <http://biancarosa.com.br/slides/web-frameworks-pyse-2018.html>`_
+
 
 Tutoriais
 ---------
