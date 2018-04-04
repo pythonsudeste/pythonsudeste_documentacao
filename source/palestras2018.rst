@@ -23,6 +23,8 @@ Palestras
 
 - `Henrique Coura- Scrapy para usuários de bs4 <https://github.com/hcoura/py_se_2018/blob/master/Presentation.ipynb>`_
 
+- `Vinicius Mesel - Mas cadê as oportunidades Python? <https://speakerdeck.com/vmesel/mas-cade-as-oportunidades-python>`_
+
 Tutoriais
 ---------
 
