@@ -22,3 +22,8 @@ Palestras
 - `Luiz Cavalcanti - Introdução a algoritmos genéticos <http://github.com/luizcavalcanti/genetic-algorithms>`_
 
 - `Henrique Coura- Scrapy para usuários de bs4 <https://github.com/hcoura/py_se_2018/blob/master/Presentation.ipynb>`_
+
+Tutoriais
+---------
+
+- `David Kwast - Introdução ao Python <https://oagnostico.com.br/notebooks/slides/Curso_Introducao_Python3.slides.html#/>`_
