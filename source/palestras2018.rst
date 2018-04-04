@@ -29,6 +29,7 @@ Palestras
 
 - `Bianca Rosa - Python Web Frameworks - Quais são e como escolher! <http://biancarosa.com.br/slides/web-frameworks-pyse-2018.html>`_
 
+- `Luiz Lima - Python + Fablab - Programando objetos para fabricação digital <https://github.com/umluizlima/pyse2018-palestra>`_
 
 Tutoriais
 ---------
