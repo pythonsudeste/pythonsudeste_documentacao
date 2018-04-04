@@ -4,6 +4,7 @@ Keynotes
 
 - `Cássio Botaro - Python Moderno <https://go-talks.appspot.com/github.com/cassiobotaro/talks_and_articles/python_moderno.slide#1>`_
 
+
 Palestras
 ----------------
 
@@ -19,3 +20,5 @@ Palestras
 - `Celso Crivelaro  - Padrões para testes de tela com Python + Selenium e como evitar testes instáveis <http://crivelaro.me/programming/2018/03/30/padroes-testes-tela.html>`_
 
 - `Luiz Cavalcanti - Introdução a algoritmos genéticos <http://github.com/luizcavalcanti/genetic-algorithms>`_
+
+- `Henrique Coura- Scrapy para usuários de bs4 <https://github.com/hcoura/py_se_2018/blob/master/Presentation.ipynb>`_
