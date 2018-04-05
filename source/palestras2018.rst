@@ -29,6 +29,8 @@ Palestras
 
 - `Bianca Rosa - Python Web Frameworks - Quais são e como escolher! <http://biancarosa.com.br/slides/web-frameworks-pyse-2018.html>`_
 
+- `Patrick Porto - Event Sourcing em Python <https://www.slideshare.net/PatrickPorto/event-sourcing-em-python>`_
+
 
 Tutoriais
 ---------
