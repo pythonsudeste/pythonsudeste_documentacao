@@ -29,6 +29,8 @@ Palestras
 
 - `Bianca Rosa - Python Web Frameworks - Quais são e como escolher! <http://biancarosa.com.br/slides/web-frameworks-pyse-2018.html>`_
 
+- `Luciano Ratamero - API Star: novo framework REST do criador do DRF <http://lucianoratamero.github.io/talks/2018/API%20Star:%20novo%20framework%20REST%20do%20criador%20do%20DRF/>`_
+
 
 Tutoriais
 ---------
