@@ -4,6 +4,8 @@ Keynotes
 
 - `Cássio Botaro - Python Moderno <https://go-talks.appspot.com/github.com/cassiobotaro/talks_and_articles/python_moderno.slide#1>`_
 
+- `Paula Grangeiro - Vida Freela <https://drive.google.com/drive/folders/1wdYR1n8Pf11cPET-RUhCoK3kZLwKZyco?usp=sharing>`_
+
 
 Palestras
 ---------
