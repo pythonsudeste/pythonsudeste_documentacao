@@ -29,6 +29,8 @@ Palestras
 
 - `Mariana Bedran - Explorando QuerySets do Django <https://speakerdeck.com/labcodes/explorando-querysets-do-django>`_
 
+- `Bianca Rosa - Python Web Frameworks - Quais são e como escolher! <http://biancarosa.com.br/slides/web-frameworks-pyse-2018.html>`_
+
 
 Tutoriais
 ---------
