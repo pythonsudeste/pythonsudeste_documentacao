@@ -31,7 +31,10 @@ Palestras
 
 - `Bianca Rosa - Python Web Frameworks - Quais são e como escolher! <http://biancarosa.com.br/slides/web-frameworks-pyse-2018.html>`_
 
+- `Patrick Porto - Event Sourcing em Python <https://www.slideshare.net/PatrickPorto/event-sourcing-em-python>`_
+
 - `Luiz Lima - Python + Fablab - Programando objetos para fabricação digital <https://github.com/umluizlima/pyse2018-palestra>`_
+
 
 Tutoriais
 ---------
