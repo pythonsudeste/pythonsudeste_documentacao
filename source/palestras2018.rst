@@ -38,3 +38,11 @@ Tutoriais
 
 - `David Kwast - Introdução ao Python <https://oagnostico.com.br/notebooks/slides/Curso_Introducao_Python3.slides.html#/>`_
 - `Arthur Fortes - Case Recommender: Utilizando Python para desenvolver sistemas de recomendação <https://github.com/ArthurFortes/Tutorial_CaseRecommender>`_
+- `Danilo J. S. Bellini - Machine Learning com scikit-learn <https://github.com/danilobellini/notebooks/blob/master/2018-03-31_scikit-learn/sklearn_tutorial.ipynb>`_
+
+
+Lightning Talks
+---------------
+
+- Danilo J. S. Bellini - 3 dos meus projetos FLOSS: `pytest-doctest-custom <https://github.com/danilobellini/pytest-doctest-custom>`_, `pyscanprev <https://github.com/danilobellini/pyscanprev>`_ (`slide <https://www.slideshare.net/djsbellini/20160813-grupysp-plugin-pytestdoctestcustom-v100/18>`_) e `brutoliquido <https://github.com/danilobellini/brutoliquido>`_
+- `Danilo J. S. Bellini - CLI de timer reverso ASCII em tela cheia GPLv3 por Torsten Rehn <https://github.com/trehn/termdown>`_
