@@ -35,7 +35,9 @@ Palestras
 
 - `Patrick Porto - Event Sourcing em Python <https://www.slideshare.net/PatrickPorto/event-sourcing-em-python>`_
 
-- `Luiz Lima - Python + Fablab - Programando objetos para fabricação digital <https://github.com/umluizlima/pyse2018-palestra>` 
+- `Luiz Lima - Python + Fablab - Programando objetos para fabricação digital <https://github.com/umluizlima/pyse2018-palestra>`_ 
+
+- `Moacir Moda - Por que todos querem aprender Python? <https://bit.ly/PorQueAprenderPython>`_
 
 
 Tutoriais
